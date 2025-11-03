@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
                     A React Native library for text recognition using Google's ML Kit with support for both iOS and Android.
                     Provides accurate text detection from images with bounding box information.
                      DESC
-    s.homepage     = "https://github.com/jd/react-native-text-recognition"
+    s.homepage     = "https://github.com/johnsriders/react-native-text-recognition"
     s.license      = { :type => "MIT", :file => "LICENSE" }
     s.author       = { "JD" => "support@jd.com" }
     s.platforms    = { :ios => "16.1" }
